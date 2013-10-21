@@ -1,4 +1,0 @@
-ma
-==
-
-Manage-Azure
